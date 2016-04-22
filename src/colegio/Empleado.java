@@ -9,5 +9,9 @@ public class Empleado extends Persona {
         this.jefe = jefe;
     }
     
+    public void combrar(){
+        
+        
+    }
     
 }
