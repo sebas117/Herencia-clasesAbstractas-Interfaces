@@ -8,10 +8,13 @@ package agen_autos;
 /**
  *
  * @author SebastianGil Y Emmanuel Vanegas
+ * @version 1.0
+ * @since 18/04/2016
  */
 public class Main {
 
     /**
+     * Funcio permite la clase ejecutable
      * @param args the command line arguments
      */
     public static void main(String[] args) {

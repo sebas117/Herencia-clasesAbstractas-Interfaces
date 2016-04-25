@@ -15,4 +15,6 @@ public class Lujo extends Carro {
                  + "Pasajeros: %s", nsm, marca, año, precio, pasajeros);
      }
     
+    
+    
 }
